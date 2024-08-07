@@ -4,7 +4,7 @@ Este proyecto es un calculador de propinas desarrollado utilizando React y TypeS
 
 ## 🚀 Demo
 
-[Ver demo en vivo](https://github.com/ddiazdu/PropinasReactTS)
+[Ver demo en vivo](https://calculadoraporcentajes98.netlify.app/)
 
 ## 📚 Funcionalidades
 
